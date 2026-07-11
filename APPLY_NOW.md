@@ -1,14 +1,15 @@
-# Apply Now — Niraj Patil (2026-07-11)
+# Apply Next — Batch 2 (2026-07-11)
 
-Download resumes from this branch’s `output/` folder (⬇ Download raw file), then open each apply link and submit yourself.
+Batch 1 (#1–16: WorkOS, Ramp, Distyl, GitLab, Stripe, Baseten, Brex, Notion, Sierra, Hightouch, Mercor, Writer) is marked **Applied**. These are **new companies / roles** for your profile.
+
+Download resumes from `output/` on this branch (⬇ Download raw file), then open each link and submit yourself.
 
 ## Resume → which file to upload
 
 | Archetype | File |
 |-----------|------|
-| Applied AI Engineer | `output/cv-niraj-patil-workos-2026-07-02.pdf` or `output/cv-niraj-patil-langchain-2026-07-02.pdf` |
+| Applied AI / FullStack product | `output/cv-niraj-patil-langchain-2026-07-02.pdf` (or WorkOS variant) |
 | Forward Deployed Engineer | `output/cv-niraj-patil-cohere-2026-07-02.pdf` |
-| Product Engineer | `output/cv-niraj-patil-hightouch-2026-07-02.pdf` |
 | Technical PM | `output/cv-niraj-patil-technicalpm-2026-07-02.pdf` |
 
 Work-auth answers: **Authorized now: Yes · Sponsorship to start: No · Future sponsorship: Yes (H-1B ~2028).** STEM OPT needs an **E-Verify** employer.
@@ -17,54 +18,45 @@ Work-auth answers: **Authorized now: Yes · Sponsorship to start: No · Future s
 
 ## Priority apply list (4.0+)
 
-1. **WorkOS — Applied AI Engineer** (4.5) · Remote US · resume: Applied AI  
-   https://jobs.ashbyhq.com/workos/5e650527-d8dd-413a-9cfb-d7d68143274b
+1. **Arize AI — AI Product Manager** (4.3) · Remote / Chicago HQ · resume: Technical PM  
+   https://job-boards.greenhouse.io/arizeai/jobs/5818115004
 
-2. **Ramp — Software Engineer, AI Forward Deployed** (4.3) · SF (reloc support) · resume: FDE  
-   https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f
+2. **Arize AI — Forward Deployed Engineer (East)** (4.2) · NYC metro · resume: FDE · **pick East OR West, not both**  
+   https://job-boards.greenhouse.io/arizeai/jobs/5993755004
 
-3. **Distyl AI — AI Engineer** (4.2) · Hybrid SF/NY · resume: Applied AI  
-   https://jobs.ashbyhq.com/distyl/46728319-c47a-48c8-bbfb-af0d9bff2ea2
+3. **Cohere — Forward Deployed Engineer, Agentic Platform** (4.2) · ET timezone · resume: FDE · **not both East/West Cohere FDE postings**  
+   https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9
 
-4. **Sierra — Software Engineer, Agent** (4.2) · SF/NY/Atlanta · resume: Applied AI · **ONE Sierra app only**  
-   https://jobs.ashbyhq.com/sierra/e9f5fdb6-91ee-4c55-9230-41ec8865650e
+4. **ElevenLabs — Forward Deployed Engineer** (4.1) · Remote · resume: FDE  
+   https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6
 
-5. **Hightouch — Software Engineer, AI Agents** (4.2) · Remote NA · resume: Applied AI · **ONE Hightouch app only**  
-   https://job-boards.greenhouse.io/hightouch/jobs/5542602004
+5. **PhysicsX — Forward Deployed Engineer** (4.1) · SF / NYC / London · resume: FDE · strong if you lean Mech Eng + AI  
+   https://job-boards.eu.greenhouse.io/physicsx/jobs/4880930101
 
-6. **Baseten — Forward Deployed Engineer** (4.2) · SF / Remote US · resume: FDE  
-   https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e
+6. **LangChain — FullStack Engineer, LangSmith** (4.0) · · resume: Applied AI  
+   https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6
 
-7. **Ramp — Applied AI Engineer, Fullstack** (4.2) · NYC/SF · resume: Applied AI · (pick ≤2 Ramp roles total)  
-   https://jobs.ashbyhq.com/ramp/6a7e382f-240a-4952-b9e5-7fe2b3856bc9
+7. **LangChain — Applied AI Engineer** (4.0) · · resume: Applied AI · slight 3+ yrs stretch  
+   https://jobs.ashbyhq.com/langchain/c75915ba-a32b-4e17-873d-19b47564170d
 
-8. **GitLab — AI Engineer** (4.1) · Remote US · resume: Applied AI  
-   https://job-boards.greenhouse.io/gitlab/jobs/8565469002
+### Same company, alternate location (only if you skipped #2)
 
-9. **Baseten — Product Engineer, Dedicated Inference** (4.1) · SF · resume: Product Engineer  
-   https://jobs.ashbyhq.com/baseten/fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde
+8. **Arize AI — Forward Deployed Engineer (West)** (4.2) · West Coast · resume: FDE  
+   https://job-boards.greenhouse.io/arizeai/jobs/6030953004
 
-10. **Brex — AI Engineer, Product** (4.1) · SF hybrid · resume: Applied AI  
-    https://www.brex.com/careers/8606845002?gh_jid=8606845002
+## Stretch (under 4.0 — apply selectively)
 
-11. **Stripe — AI Engineer** (4.0) · **Chicago (no relocation)** · resume: Applied AI  
-    https://stripe.com/jobs/search?gh_jid=8044460
+9. **Speechmatics — Forward Deployed Engineer** (3.8) · Cambridge/London · resume: FDE  
+   https://job-boards.eu.greenhouse.io/speechmatics/jobs/4792165101
 
-12. **Brex — Forward Deployed Agent Builder** (4.0) · NYC hybrid · resume: FDE  
-    https://www.brex.com/careers/8523177002?gh_jid=8523177002
+10. **LangChain — Product Manager, LangSmith** (3.8) · · resume: Technical PM · only if you want PM track over eng  
+    https://jobs.ashbyhq.com/langchain/27af5f96-b287-4bcc-8679-f96686dc7c8d
 
-13. **Notion — Software Engineer, AI Workflows** (4.0) · SF onsite 3 days · resume: Applied AI  
-    https://jobs.ashbyhq.com/notion/17330e14-83db-49a4-ae31-411690d97dba
+11. **Glean — Founding Forward Deployed Engineer** (3.7) · SF/NYC · resume: FDE · 4+ yrs stretch  
+    https://job-boards.greenhouse.io/gleanwork/jobs/4651991005
 
-14. **Mercor — Software Engineer, Agents** (4.0) · SF/NY 5 days in-person · resume: Applied AI  
-    https://jobs.ashbyhq.com/mercor/4f4fc8c3-4056-47bb-9e00-1db6e5dd958f
+---
 
-15. **Ramp — Applied AI Engineer** (4.0) · NYC/SF · resume: Applied AI · only if you didn’t already apply to other Ramp roles  
-    https://jobs.ashbyhq.com/ramp/d204e136-2749-42de-82b4-88a0dd352090
+Skipped as poor fit this round: Parloa Senior/Lead FDE, Databricks Applied AI (5+ yrs), PolyAI FDE (5 yrs), Figma AI Product (5+ yrs), Deepgram Senior FDE.
 
-## Stretch
-
-16. **Writer — Software Engineer, Agents** (3.8) · NYC · resume: Applied AI  
-    https://jobs.ashbyhq.com/writer/6ee2fc03-6df8-4729-9c1d-ed02636bdb9d
-
-Full notes: `data/applications.md` and `reports/001`–`016`.
+Full notes: `data/applications.md` and `reports/017`–`027`.
