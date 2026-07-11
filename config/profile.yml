@@ -1,0 +1,100 @@
+# Career-Ops Profile Configuration
+# Single source of truth for personal data across all modes.
+
+candidate:
+  full_name: "Niraj Patil"
+  email: "bnirajpatil9@gmail.com"
+  phone: "+1 447-902-7504"
+  location: "Chicago, IL (open to relocation anywhere in the USA)"
+  linkedin: "https://www.linkedin.com/in/nirajpatil01/"
+  portfolio_url: "https://niraj-portfolio-rho.vercel.app/"
+  github: "https://github.com/Nstar9"
+  twitter: ""
+  photo: ""
+
+target_roles:
+  primary:
+    - "Product Engineer"
+    - "Forward Deployed Engineer"
+    - "Technical Product Manager"
+    - "Applied AI Engineer"
+  archetypes:
+    - name: "Product Engineer"
+      level: "Mid"
+      fit: "primary"
+    - name: "Forward Deployed Engineer"
+      level: "Mid"
+      fit: "primary"
+    - name: "Technical Product Manager"
+      level: "Mid"
+      fit: "primary"
+    - name: "Applied AI / AI Engineer (Full Stack)"
+      level: "Mid"
+      fit: "primary"
+    - name: "Solutions Engineer (technical, non-sales)"
+      level: "Mid"
+      fit: "secondary"
+    - name: "Product Manager"
+      level: "Mid"
+      fit: "secondary"
+    - name: "Product Analyst"
+      level: "Mid"
+      fit: "secondary"
+
+narrative:
+  headline: "Product-minded engineer who ships AI/LLM systems end-to-end"
+  exit_story: >-
+    Founder-builder and forward-deployed engineer who works at the seam between product intent
+    and shipped code. Built an AI fintech platform 0->1, shipped a #4 Product Hunt AI browser
+    launch, and builds agentic/RAG systems. Now looking for a Product Engineer / FDE / Technical
+    PM / Applied AI role at a product-led company.
+  superpowers:
+    - "Bridges product and engineering — writes feature-level code AND owns requirements/specs"
+    - "Ships AI/LLM systems 0->1 (RAG, multi-agent/MCP, LLM integration in production)"
+    - "Client-facing technical discovery — turns ambiguous requirements into shipped architecture"
+    - "Full-stack delivery: Python/FastAPI/Flask + TypeScript/React/Next.js on AWS/GCP"
+  proof_points:
+    - name: "HawkAI — Autonomous KYC/AML Intelligence Agent"
+      url: "https://github.com/Nstar9"
+      hero_metric: "Multi-agent MCP pipeline; OFAC screening over 17,557 entries; risk reports in <90s"
+    - name: "Zeno (getzeno.io) — AI fintech platform (0->1, Founder)"
+      url: "https://niraj-portfolio-rho.vercel.app/"
+      hero_metric: "10K+ monthly transactions in production; 90%+ doc-extraction accuracy; 200+ beta users"
+    - name: "Kahana.io — Oasis AI browser (Product/Forward Deployed Engineer)"
+      url: "https://niraj-portfolio-rho.vercel.app/"
+      hero_metric: "#4 Product Hunt launch, 295 upvotes, 7,000+ users, zero critical launch-day bugs"
+    - name: "AlphaForge — ML financial forecasting"
+      url: "https://github.com/Nstar9"
+      hero_metric: "Next-day equity price prediction, MAPE 4.71% (Random Forest)"
+
+compensation:
+  target_range: "Flexible / open to negotiation (market rate for role & location)"
+  currency: "USD"
+  minimum: ""
+  location_flexibility: "Based in Chicago; open to relocation anywhere in the USA; remote welcome"
+
+location:
+  country: "United States"
+  city: "Chicago"
+  timezone: "CST"
+  visa_status: "F-1 STEM OPT — authorized to work in the US now with NO sponsorship needed to start"
+  onsite_availability: "Open to relocation anywhere in the USA"
+
+work_authorization:
+  status: "F-1 student on Post-Completion OPT (STEM eligible)"
+  authorized_now: true
+  sponsorship_needed_to_start: false
+  current_ead_expires: "2026-09"
+  stem_extension_eligible: true
+  authorized_through: "2028-08"
+  requires_everify_employer: true
+  future_sponsorship: "Will need H-1B to continue beyond Aug 2028; ideal H-1B lottery filing Spring 2027 (Oct 2027 start)"
+
+cv:
+  output_format: "html"
+
+cover_letter:
+  notice_period_days: 14
+  primary_domain: "AI/LLM product engineering"
+
+auto_pdf_score_threshold: 4.0
